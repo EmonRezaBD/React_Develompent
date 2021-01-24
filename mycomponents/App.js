@@ -14,7 +14,8 @@ function App() {
 
 
 
-      <Welcome> </Welcome>
+      <Welcome name="class 1"> </Welcome>
+      <Welcome name="class 2"> </Welcome>
 
 
     </div>
