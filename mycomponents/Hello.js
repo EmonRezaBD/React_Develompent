@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Hello() {
+function Hello(props) {
 
     return (
-        <h1>Hello func</h1>
+        <h1>{props.name} {props.age}</h1>
     );
 
 
